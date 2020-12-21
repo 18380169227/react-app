@@ -12,7 +12,7 @@
 -   [redux](https://redux.js.org/)(基础用法，但是封装了通用 action 和 reducer，demo 中主要用于权限控制（ps：目前可以用 16.x 的 context api 代替），可以简单了解下)
 -   [axios](https://github.com/mzabriskie/axios)(<span style="color: rgb(243,121,52);">http 请求模块，可用于前端任何场景，很强大 👍</span>)
 -   [better-scroll](https://github.com/ustbhuangyi/better-scroll) BetterScroll是一个插件，旨在解决移动端的滚动情况
--   [http-proxy-middleware](https://github.com/facebook/create-react-app/blob/master/docusaurus/docs/proxying-api-requests-in-development.md)http-proxy-middleware是create-react-app 提供的解决跨域的方法
+-   [http-proxy-middleware](https://github.com/facebook/create-react-app/blob/master/docusaurus/docs/proxying-api-requests-in-development.md) (<span style="color: rgb(243,121,52);">http-proxy-middleware是create-react-app 提供的解决跨域的方法 👍</span>)
 
 -   其他小细节省略
 
