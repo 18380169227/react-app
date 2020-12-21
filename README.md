@@ -1,6 +1,10 @@
 ### 前言
 > 这是一个仿移动端小项目，里面包括首页，作品展示及评论页，导师展示页，以及登陆注册页面。
 
+### 解决跨域
+
+- [proxy](https://github.com/facebook/create-react-app/blob/master/docusaurus/docs/proxying-api-requests-in-development.md
+)
 
 ### 依赖模块
 
